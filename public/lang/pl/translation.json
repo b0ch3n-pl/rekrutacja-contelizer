@@ -5,7 +5,7 @@
     "api": "API Lab"
   },
   "mixer": {
-    "introduction": "Czy wiesz, że niektórzy ludzie potrafią bez trudu przeczytać słowo z\u00A0pomieszanymi literami, jeśli pierwsza z\u00A0ostatnia są na miejscu?",
+    "introduction": "Czy wiesz, że niektórzy ludzie potrafią bez trudu przeczytać słowo z\u00A0pomieszanymi literami, jeśli pierwsza i\u00A0ostatnia są na miejscu?",
     "instruction": "Wczytaj plik tekstowy (.txt) a\u00A0następnie użyj dużego przycisku by zmiksować wyrazy.",
     "cta": "Sprawdź, czy też to potrafisz!",
     "bigButton": "Miksuj!",
@@ -31,8 +31,8 @@
     }
   },
   "apiLab": {
-    "introduction": "Czas zakasać rękawy z\u00A0pobawić się w\u00A0dane. W\u00A0API Labie możesz wyszukiwać i\u00A0edytować wpisy bez ograniczeń.",
-    "instruction": "Wyszukuj z\u00A0edytuj istniejące wpisy.",
+    "introduction": "Czas zakasać rękawy i\u00A0pobawić się w\u00A0dane. W\u00A0API Labie możesz wyszukiwać i\u00A0edytować wpisy bez ograniczeń.",
+    "instruction": "Wyszukuj i\u00A0edytuj istniejące wpisy.",
     "cta": "Twoje Laboratorium\u00A0API",
     "bigButton": "Testuj!",
     "inputPlaceholder" : "szukaj użytkownika",
@@ -49,7 +49,7 @@
       "shortFemale": "K",
       "male": "Mężczyzna",
       "female": "Kobieta",
-      "name": "Imię z\u00A0nazwisko",
+      "name": "Imię i\u00A0nazwisko",
       "email": "Adres e-mail",
       "gender": "Płeć",
       "status": "Status",
