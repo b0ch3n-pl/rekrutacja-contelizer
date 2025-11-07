@@ -1,11 +1,11 @@
-import { motion, AnimatePresence } from "framer-motion";
+import { motion, AnimatePresence } from "motion/react";
 import React from "react";
 
-interface Props {
+interface IProps {
     lang: string;
 }
 
-export const LanguageIcon: React.FC<Props> = ({ lang }) => {
+export const LanguageIcon: React.FC<IProps> = ({ lang }) => {
     return (
         <AnimatePresence mode="wait">
             <motion.svg
