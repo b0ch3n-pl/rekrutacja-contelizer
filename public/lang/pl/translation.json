@@ -17,7 +17,7 @@
     }
   },
   "pesel": {
-    "introduction": "Nie wiesz co ze sobą zrobić? Za oknem ponuro i\u00A0zacina deszcz? Mamy dla Ciebie rozwiązanie, sprawdź poprawność numeru PESEL.",
+    "introduction": "Nie wiesz co ze sobą zrobić? Za oknem ponuro i\u00A0zacina deszcz? Mam dla Ciebie rozwiązanie, sprawdź poprawność numeru PESEL.",
     "instruction": "Wpisz poniżej numer a\u00A0następnie użyj dużego przycisku by sprawdzić poprawność.",
     "cta": "Przetestuj numer PESEL!",
     "bigButton": "Testuj!",
