@@ -5,8 +5,8 @@
     "api": "API Lab"
   },
   "mixer": {
-    "introduction": "Czy wiesz, że niektórzy ludzie potrafią bez trudu przeczytać słowo z pomieszanymi literami, jeśli pierwsza i ostatnia są na miejscu?",
-    "instruction": "Wczytaj plik tekstowy (.txt) a następnie użyj dużego przycisku by zmiksować wyrazy.",
+    "introduction": "Czy wiesz, że niektórzy ludzie potrafią bez trudu przeczytać słowo z\u00ADpomieszanymi literami, jeśli pierwsza z\u00ADostatnia są na miejscu?",
+    "instruction": "Wczytaj plik tekstowy (.txt) a\u00ADnastępnie użyj dużego przycisku by zmiksować wyrazy.",
     "cta": "Sprawdź, czy też to potrafisz!",
     "bigButton": "Miksuj!",
     "file": {
@@ -17,8 +17,8 @@
     }
   },
   "pesel": {
-    "introduction": "Nie wiesz co ze sobą zrobić? Za oknem ponuro i\u00A0zacina deszcz? Mamy dla Ciebie rozwiązanie, sprawdź poprawność numeru PESEL.",
-    "instruction": "Wpisz poniżej numer a następnie użyj dużego przycisku by sprawdzić poprawność.",
+    "introduction": "Nie wiesz co ze sobą zrobić? Za oknem ponuro i\u00ADzacina deszcz? Mamy dla Ciebie rozwiązanie, sprawdź poprawność numeru PESEL.",
+    "instruction": "Wpisz poniżej numer a\u00ADnastępnie użyj dużego przycisku by sprawdzić poprawność.",
     "cta": "Przetestuj numer PESEL!",
     "bigButton": "Testuj!",
     "inputPlaceholder" : "tu wpisz numer",
@@ -31,8 +31,8 @@
     }
   },
   "apiLab": {
-    "introduction": "Czas zakasać rękawy i pobawić się w dane. W\u00A0API Labie możesz wyszukiwać i\u00A0edytować wpisy bez ograniczeń.",
-    "instruction": "Wyszukuj i edytuj istniejące wpisy.",
+    "introduction": "Czas zakasać rękawy z\u00ADpobawić się w\u00ADdane. W\u00A0API Labie możesz wyszukiwać i\u00ADedytować wpisy bez ograniczeń.",
+    "instruction": "Wyszukuj z\u00ADedytuj istniejące wpisy.",
     "cta": "Twoje Laboratorium\u00A0API",
     "bigButton": "Testuj!",
     "inputPlaceholder" : "szukaj użytkownika",
@@ -49,7 +49,7 @@
       "shortFemale": "K",
       "male": "Mężczyzna",
       "female": "Kobieta",
-      "name": "Imię i nazwisko",
+      "name": "Imię z\u00ADnazwisko",
       "email": "Adres e-mail",
       "gender": "Płeć",
       "status": "Status",
