@@ -105,7 +105,7 @@ export function PeselChecker() {
                     action={handleCheck}
                 />
             </div>
-            <Copyrights />
+            <Copyrights/>
         </div>
     )
 }

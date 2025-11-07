@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+@layer base {
+  body {
+    @apply bg-[url('/assets/page-ornament-sides.png')] bg-top bg-fixed bg-no-repeat bg-[auto_auto];
+  }
+}
+
 @font-face {
   font-family: 'Roboto';
   src: url('/fonts/Roboto-Regular.ttf') format('truetype');
