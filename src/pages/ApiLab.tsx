@@ -160,7 +160,7 @@ export function ApiLab() {
                                                             ...editingUser,
                                                             gender: e.target.value
                                                         })}
-                                                        className="border border-neutral-300 rounded-md p-2 w-full bg-white focus:outline-none focus:ring-2 focus:ring-brown"
+                                                        className="border border-neutral-300 rounded-md p-2 w-full bg-white focus:outline-none focus:ring-2 focus:ring-brown cursor-pointer"
                                                     >
                                                         <option value="male">{t("apiLab.user.male")}</option>
                                                         <option value="female">{t("apiLab.user.female")}</option>
@@ -175,7 +175,7 @@ export function ApiLab() {
                                                             ...editingUser,
                                                             status: e.target.value
                                                         })}
-                                                        className="border border-neutral-300 rounded-md p-2 w-full bg-white focus:outline-none focus:ring-2 focus:ring-brown"
+                                                        className="border border-neutral-300 rounded-md p-2 w-full bg-white focus:outline-none focus:ring-2 focus:ring-brown cursor-pointer"
                                                     >
                                                         <option value="active">{t("apiLab.user.active")}</option>
                                                         <option value="inactive">{t("apiLab.user.inactive")}</option>
