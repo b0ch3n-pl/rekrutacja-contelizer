@@ -1,0 +1,64 @@
+{
+  "title": {
+    "mixer": "Text Mixer",
+    "pesel": "PESEL Tester",
+    "api": "API Lab"
+  },
+  "mixer": {
+    "introduction": "Did you know that some people can easily read a word with mixed-up letters as long as the first and last letters stay in place?",
+    "instruction": "Load a text file (.txt) and then use the big button to mix the words.",
+    "cta": "See if you can do it too!",
+    "bigButton": "Mix!",
+    "file": {
+      "load": "Load file",
+      "loaded": "Loaded file",
+      "original": "Original text",
+      "mixed": "Mixed text"
+    }
+  },
+  "pesel": {
+    "introduction": "Don’t know what to do with yourself? The weather outside is gloomy and rainy? We’ve got a solution for you — check the validity of a PESEL number.",
+    "instruction": "Enter the number below and use the big button to verify it.",
+    "cta": "Test a PESEL number!",
+    "bigButton": "Test!",
+    "inputPlaceholder": "enter the number here",
+    "number": {
+      "tooShort": "Number too short!",
+      "tooLong": "Number too long!",
+      "numbersOnly": "PESEL contains digits only!",
+      "wrong": "Invalid PESEL number!",
+      "ok": "Well done, valid PESEL!"
+    }
+  },
+  "apiLab": {
+    "introduction": "Time to roll up your sleeves and play with data. In the API Lab, you can search and edit entries without limits.",
+    "instruction": "Search and edit existing entries.",
+    "cta": "Your API Laboratory",
+    "bigButton": "Test!",
+    "inputPlaceholder": "search user",
+    "api": {
+      "loading": "Loading...",
+      "error": "Error loading..."
+    },
+    "user": {
+      "edit": "Edit",
+      "save": "Save",
+      "cancel": "Cancel",
+      "userEdit": "Edit user",
+      "shortMale": "M",
+      "shortFemale": "F",
+      "male": "Male",
+      "female": "Female",
+      "name": "Full name",
+      "email": "Email address",
+      "gender": "Gender",
+      "status": "Status",
+      "active": "Active",
+      "inactive": "Inactive"
+    }
+  },
+  "copyrights": {
+    "for": "for",
+    "statement": "Website content is legally protected"
+  }
+}

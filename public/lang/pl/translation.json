@@ -1,0 +1,64 @@
+{
+  "title": {
+    "mixer": "Mikser tekstu",
+    "pesel": "Tester PESELu",
+    "api": "API Lab"
+  },
+  "mixer": {
+    "introduction": "Czy wiesz, że niektórzy ludzie potrafią bez trudu przeczytać słowo z pomieszanymi literami, jeśli pierwsza i ostatnia są na miejscu?",
+    "instruction": "Wczytaj plik tekstowy (.txt) a następnie użyj dużego przycisku by zmiksować wyrazy.",
+    "cta": "Sprawdź, czy też to potrafisz!",
+    "bigButton": "Miksuj!",
+    "file": {
+      "load": "Wczytaj plik",
+      "loaded": "Wczytany plik",
+      "original": "Oryginalna treść",
+      "mixed": "Zmiksowana treść"
+    }
+  },
+  "pesel": {
+    "introduction": "Nie wiesz co ze sobą zrobić? Za oknem ponuro i\u00A0zacina deszcz? Mamy dla Ciebie rozwiązanie, sprawdź poprawność numeru PESEL.",
+    "instruction": "Wpisz poniżej numer a następnie użyj dużego przycisku by sprawdzić poprawność.",
+    "cta": "Przetestuj numer PESEL!",
+    "bigButton": "Testuj!",
+    "inputPlaceholder" : "tu wpisz numer",
+    "number": {
+      "tooShort": "Za krótki numer!",
+      "tooLong": "Za długi numer!",
+      "numbersOnly": "PESEL to tylko cyfry!",
+      "wrong": "Niepoprawny numer PESEL!",
+      "ok": "Brawo, PESEL poprawny!"
+    }
+  },
+  "apiLab": {
+    "introduction": "Czas zakasać rękawy i pobawić się w dane. W\u00A0API Labie możesz wyszukiwać i\u00A0edytować wpisy bez ograniczeń.",
+    "instruction": "Wyszukuj i edytuj istniejące wpisy.",
+    "cta": "Twoje Laboratorium\u00A0API",
+    "bigButton": "Testuj!",
+    "inputPlaceholder" : "szukaj użytkownika",
+    "api": {
+      "loading": "Pobieranie...",
+      "error": "Błąd pobierania..."
+    },
+    "user": {
+      "edit": "Edytuj",
+      "save": "Zapisz",
+      "cancel": "Anuluj",
+      "userEdit": "Edycja użytkownika",
+      "shortMale": "M",
+      "shortFemale": "K",
+      "male": "Mężczyzna",
+      "female": "Kobieta",
+      "name": "Imię i nazwisko",
+      "email": "Adres e-mail",
+      "gender": "Płeć",
+      "status": "Status",
+      "active": "Aktywny",
+      "inactive": "Nieaktywny"
+    }
+  },
+  "copyrights": {
+    "for": "dla",
+    "statement": "Treść serwisu prawnie chroniona"
+  }
+}
